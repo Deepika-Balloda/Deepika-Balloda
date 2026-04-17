@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Deepika 👋
 
-<!--
-**Deepika-Balloda/Deepika-Balloda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Master of Information Technology student at the University of Waikato with 9+ years of experience in:
+- Production support (L2) and application support  
+- System operations and monitoring (Splunk, Grafana, Linux/UNIX)  
+- SQL, PL/SQL, Oracle databases  
 
-Here are some ideas to get you started:
+### What I'm focusing on now
+- Python scripts for automation and log analysis  
+- SQL queries and data analysis  
+- Monitoring and alerting concepts  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I’ve worked with
+- Languages: Python, SQL, Java (basics)  
+- Databases: Oracle, SQL Server  
+- OS: Linux/UNIX, Windows  
+- Tools: Splunk, Grafana, RabbitMQ, ServiceNow, JIRA, SAS, HP-ALM  
+
+### What I'm looking for
+Internship opportunities in:
+- Application Support / Production Support  
+- System Operations / Monitoring  
+- Backend troubleshooting and automation  
+
+Feel free to connect with me on LinkedIn.

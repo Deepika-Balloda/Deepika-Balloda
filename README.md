@@ -17,7 +17,7 @@ I’m a Master of Information Technology student at the University of Waikato wi
 - Tools: Splunk, Grafana, RabbitMQ, ServiceNow, JIRA, SAS, HP-ALM  
 
 ### What I'm looking for
-Internship opportunities in:
+Work Opportunities in:
 - Application Support / Production Support  
 - System Operations / Monitoring  
 - Backend troubleshooting and automation  
